@@ -15,17 +15,19 @@ Gatsby
 
 
 ### memo
-* [GitHub](https://github.com/rg-civictech/rg-civictech)
-  * https://rg-civictech.github.io/rg-civictech/
+* [GitHub](https://github.com/rg-civictech/rg-civictech.github.io)
+  * https://rg-civictech.github.io/
 
 * [ブログサイトを作りながら学ぶGatsby入門](https://zenn.dev/tomokiya/books/4b13342f6d878b93e06c)
 
+install
 ```
 $ gatsby new rg-civictech https://github.com/gatsbyjs/gatsby-starter-hello-world
 $ cd rg-civictech
 $ gatsby develop
 ```
 
+develop view
 ```
 You can now view gatsby-starter-hello-world in the browser.
 http://localhost:8000/
@@ -34,6 +36,7 @@ View GraphiQL, an in-browser IDE, to explore your site's data and schema
 http://localhost:8000/___graphql
 ```
 ⠀
+build
 ```
 $ gatsby build
 ```
