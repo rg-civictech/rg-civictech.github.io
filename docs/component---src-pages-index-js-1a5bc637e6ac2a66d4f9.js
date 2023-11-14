@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[678],{558:function(e,t,n){n.r(t),n.d(t,{default:function(){return r}});var l=n(294);function r(){return l.createElement("div",null,l.createElement("h1",null,"社会情報学会 シビックテック・デザイン研究会"),l.createElement("h2",null,"Research Group on Designing Civic Tech (RG-CIVICTECH)"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-1a5bc637e6ac2a66d4f9.js.map
