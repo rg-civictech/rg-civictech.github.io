@@ -1,33 +1,29 @@
-Gatsby
+Gatsby Blog
 ===
-* 
+
 * [公式 Gatsby](https://www.gatsbyjs.com/)
+* [gatsby-starter-blog](https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-blog/)
+
+
+gatsby-starter-blogにページネーションを追加する
+https://zenn.dev/piruty/articles/a16398ae17496831b6d3
 
 ### info
-* Gatsby.js Advent Calendar
-    * [Gatsby.js Advent Calendar 2019](https://qiita.com/advent-calendar/2019/gatsby)
-    * [Gatsby.js Advent Calendar 2021](https://qiita.com/advent-calendar/2021/gatsby)
-* [Gatsby.jsとNext.jsはどちらが優秀か比較してみた。](https://qiita.com/yutopia898/items/c8ed4413327056abcb73)
-* [Reactの最強フレームワークGatsby.jsの良さを伝えたい！！](https://qiita.com/hppRC/items/00739eaf9ae7fc95c1ca)
+* [GatsbyとGitHub Pagesで作るMarkdownブログ](https://kanamesasaki.github.io/blog/20220124-gatsby-blog/)
 * [Gatsby + GitHub Pages でポートフォリオページを無料でシュッと作る ](https://qiita.com/mishiwata1015/items/ac65efbabb4400fd95bf)
 * [基礎から始めるGatsbyJS入門](https://reffect.co.jp/react/gatsby-basic-tutorial-for-beginners)
-* [GatsbyJS 現代のWordpress](https://tech.bitbank.cc/20210201/)
+* [GatsbyJsでgatsby-starter-blogを使ったサイトの作成](https://www.kohsuk.tech/articles/2020-11-25)
 
+### install
 
-### memo
-* [GitHub](https://github.com/rg-civictech/rg-civictech.github.io)
-  * https://rg-civictech.github.io/
-
-* [ブログサイトを作りながら学ぶGatsby入門](https://zenn.dev/tomokiya/books/4b13342f6d878b93e06c)
-
-install
+init
 ```
-$ gatsby new rg-civictech https://github.com/gatsbyjs/gatsby-starter-hello-world
+$ gatsby new rg-civictech https://github.com/gatsbyjs/gatsby-starter-blog
 $ cd rg-civictech
 $ gatsby develop
 ```
 
-develop view
+debug view
 ```
 You can now view gatsby-starter-hello-world in the browser.
 http://localhost:8000/
@@ -39,4 +35,20 @@ http://localhost:8000/___graphql
 build
 ```
 $ gatsby build
+-->　/public directory
 ```
+
+.env load module
+```
+$ npm install --save dotenv
+```
+
+### ページネーション
+
+```
+$ npm install --save gatsby-awesome-pagination
+```
+
+* [Gatsbyブログのページネーションの作り方](https://monotein.com/blog/making-pagination-for-gatsby-blog)
+* [gatsby-starter-blogにページネーションを追加する](https://zenn.dev/piruty/articles/a16398ae17496831b6d3)
+

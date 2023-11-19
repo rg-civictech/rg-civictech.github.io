@@ -70,6 +70,11 @@ yarn-error.log
 
 # private
 .idea/
+.idea/
 logs/
 0*.*/
 *.0*
+
+.env
+.env.development
+.env.production
