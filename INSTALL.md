@@ -4,6 +4,10 @@ Gatsby Blog
 * [公式 Gatsby](https://www.gatsbyjs.com/)
 * [gatsby-starter-blog](https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-blog/)
 
+
+gatsby-starter-blogにページネーションを追加する
+https://zenn.dev/piruty/articles/a16398ae17496831b6d3
+
 ### info
 * [GatsbyとGitHub Pagesで作るMarkdownブログ](https://kanamesasaki.github.io/blog/20220124-gatsby-blog/)
 * [Gatsby + GitHub Pages でポートフォリオページを無料でシュッと作る ](https://qiita.com/mishiwata1015/items/ac65efbabb4400fd95bf)
@@ -38,3 +42,13 @@ $ gatsby build
 ```
 $ npm install --save dotenv
 ```
+
+### ページネーション
+
+```
+$ npm install --save gatsby-awesome-pagination
+```
+
+* [Gatsbyブログのページネーションの作り方](https://monotein.com/blog/making-pagination-for-gatsby-blog)
+* [gatsby-starter-blogにページネーションを追加する](https://zenn.dev/piruty/articles/a16398ae17496831b6d3)
+

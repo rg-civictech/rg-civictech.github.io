@@ -240,8 +240,9 @@ a:focus {
 
 .global-wrapper {
   margin: var(--spacing-0) auto;
-  max-width: var(--maxWidth-wrapper);
-  padding: var(--spacing-10) var(--spacing-5);
+  /* max-width: var(--maxWidth-wrapper); */
+  /* padding: var(--spacing-10) var(--spacing-5); */
+  padding: var(--spacing-2) var(--spacing-5);
 }
 
 .global-wrapper[data-is-root-path="true"] .bio {
@@ -282,6 +283,7 @@ a:focus {
   font-family: var(--font-heading);
   text-decoration: none;
   font-size: var(--fontSize-2);
+  margin-right: var(--spacing-4);
 }
 
 .bio {
