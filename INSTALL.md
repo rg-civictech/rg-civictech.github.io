@@ -43,6 +43,42 @@ $ gatsby build
 $ npm install --save dotenv
 ```
 
+### GitHub pages
+* [GatsbyとGitHub Pagesで作るMarkdownブログ](https://kanamesasaki.github.io/blog/20220124-gatsby-blog/)
+
+gh-pagesパッケージをグローバルにインストール
+```
+$ npm install -g gh-pages --save-dev
+```
+
+#### ルートサイト
+
+publicディレクトリにビルド＆デプロイ
+```
+$ gatsby build
+$ gh-pages -d public
+```
+
+#### プロジェクトサイト
+プロジェクトサイトの場合 URL(https://username.github.io/xxxx/)になる
+各ページへのパスを/xxxx/以下に割り振るために，
+gatsby-config.jsにpathPrefixを追加して，ビルドする際に—prefix-pathsフラグを入れる．
+
+Gatsby-config.js
+```
+module.exports = {
+  pathPrefix: `/xxx`,
+}
+```
+ビルド＆デプロイ
+```
+$ gatsby build --prefix-paths
+$ gh-pages -d public
+```
+
+
+
+
 ### ページネーション
 
 ```
