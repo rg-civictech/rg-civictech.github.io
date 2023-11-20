@@ -13,7 +13,7 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    title: `シビックテック・デザイン研究会`,
+    title: `シビックテック・デザイン研究部会`,
     description: `Research Group on Designing Civic Tech (RG-CIVICTECH)`,
     siteUrl: `https://rg-civictech.github.io/`,
   },
