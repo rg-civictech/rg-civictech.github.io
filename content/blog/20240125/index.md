@@ -6,7 +6,7 @@ description: 2024年2月8日（木）午後7時からオンラインイベント
 
 **イベント名**：第1回Wikipedia編集会議<br>
 **日時**：2024年2月8日(木)午後7時から午後8時30分まで<br>
-**場所**：オンライン（<a href="https://www.youtube.com/@rg-civictech" target="_blank">https://www.youtube.com/@rg-civictech</a>）<br>
+**場所**：オンライン（<a href="https://www.youtube.com/watch?v=BNGUXV-ar50" target="_blank">https://www.youtube.com/watch?v=BNGUXV-ar50</a>）<br>
 
 *（本イベントは、2024年1月22日に開催予定のワークショップを延期して開くものです）*
 
