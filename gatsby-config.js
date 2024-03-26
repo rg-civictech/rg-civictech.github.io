@@ -12,6 +12,8 @@ require("dotenv").config({
 })
 
 module.exports = {
+  //pathPrefix: "/reponame",
+  pathPrefix: "",
   siteMetadata: {
     title: `シビックテック・デザイン研究部会`,
     description: `Research Group on Designing Civic Tech (RG-CIVICTECH)`,
