@@ -38,9 +38,9 @@ export default function About({ data, location }) {
                     </thead>
                     <tbody>
                     <tr>
-                        <th>主査</th>
-                        <td>澁谷　遊野</td>
-                        <td>東京大学</td>
+                        <th></th>
+                        <td>青木　和人</td>
+                        <td>福井県立大学</td>
                         <td>正会員</td>
                     </tr>
                     <tr>
@@ -52,6 +52,12 @@ export default function About({ data, location }) {
                     <tr>
                         <th></th>
                         <td>小俣　博司</td>
+                        <td>東京大学</td>
+                        <td>正会員</td>
+                    </tr>
+                    <tr>
+                        <th>主査</th>
+                        <td>澁谷　遊野</td>
                         <td>東京大学</td>
                         <td>正会員</td>
                     </tr>
