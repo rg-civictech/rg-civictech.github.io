@@ -29,6 +29,11 @@ $ gatsby build
 ---> publicディレクトリにビルド結果が出力される
 ```
 
+初回のみ
+```
+$ npm install --global gh-pages
+```
+
 GitHub Pageにpublicディレクトリの内容をデプロイ
 ```
 $ gh-pages -d public
