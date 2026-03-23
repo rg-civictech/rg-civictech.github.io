@@ -1,6 +1,8 @@
 build & deployment
 ====
 
+how_to_release.mdも参照
+
 ### 記事追加
 
 '/content/blog/{日付}'にMarkdown形式のファイルを追加＆記述する.

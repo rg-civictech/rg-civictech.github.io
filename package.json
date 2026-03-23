@@ -29,7 +29,11 @@
     "react-dom": "^18.1.0"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "gh-pages": "^6.3.0",
+=======
+    "gh-pages": "^6.1.1",
+>>>>>>> origin/main
     "prettier": "^2.8.8"
   },
   "homepage": "https://rg-civictech.github.io/",
@@ -44,6 +48,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "gatsby develop",
     "serve": "gatsby serve",
