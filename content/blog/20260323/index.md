@@ -29,8 +29,9 @@ https://rg-civictech.github.io/
 
 
 ### 視聴方法
-以下のYouTube配信URLよりご視聴ください。  
-https://youtube.com/live/W3y3t64_0SU
+YouTubeのURLが変わりました   
+下記へ変更をお願いします   
+https://www.youtube.com/live/O5UpSGzgTL8
 
 ※本配信は聴講のみとなり、参加者からの発言はできません。    
 ※質疑応答は事前に募集した質問、または配信中のコメント等をもとに取り上げる予定です。  
