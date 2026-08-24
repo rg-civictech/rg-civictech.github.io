@@ -11,7 +11,7 @@
     "@fontsource-variable/montserrat": "^5.0.4",
     "@fontsource/merriweather": "^5.0.3",
     "@stackbit/gatsby-plugin-menus": "^0.0.4",
-    "dotenv": "^16.3.1",
+    "dotenv": "^16.6.1",
     "gatsby": "^5.12.4",
     "gatsby-awesome-pagination": "^0.3.8",
     "gatsby-plugin-feed": "^5.12.0",
